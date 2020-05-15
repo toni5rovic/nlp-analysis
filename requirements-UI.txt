@@ -1,0 +1,7 @@
+Required packages for the UI part can be found in the file
+"package.json" in the folder "/ui". 
+
+However, Vue.js needs to be installed, after which running the command:
+npm run serve
+in the folder "/ui" will automatically install the required packages 
+and start the application.
